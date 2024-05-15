@@ -236,14 +236,14 @@ const EVENTS_LIB = [
 
 const OTHERS_LIB = [
   {
-    src: './img/o_vegas',
+    src: './img/o_disney',
     mode: 0,
     // title: 'Versailles Garden',
   },
   {
-    src: './img/o_disney',
+    src: './img/o_starbucks',
     mode: 0,
-    // title: 'Versailles Garden',
+    // title: '',
   },
   {
     src: './img/o_pitts',
@@ -256,14 +256,29 @@ const OTHERS_LIB = [
     // title: '',
   },
   {
-    src: './img/o_starbucks',
-    mode: 0,
-    // title: '',
-  },
-  {
     src: './img/o_golden',
     mode: 0,
     // title: 'Golden Gate Bridge',
+  },
+  {
+    src: './img/o_ddol',
+    mode: 0,
+    // title: 'Versailles Garden',
+  },
+  {
+    src: './img/o_vegas',
+    mode: 0,
+    // title: 'Versailles Garden',
+  },
+  {
+    src: './img/o_jeju',
+    mode: 0,
+    // title: 'Versailles Garden',
+  },
+  {
+    src: './img/o_brook',
+    mode: 0,
+    // title: 'Versailles Garden',
   },
   {
     src: './img/o_versi',
@@ -271,6 +286,11 @@ const OTHERS_LIB = [
     // title: 'Versailles Garden',
   },
   // {
+  //   src: './img/o_flower',
+  //   mode: 0,
+  //   // title: 'Versailles Garden',
+  // },
+  // // {
   //   src: './img/o_wine',
   //   mode: 0,
   //   title: '',
